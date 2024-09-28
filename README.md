@@ -1,7 +1,6 @@
 # About me
 
-fairly fluent in C/C++/C#
-also Java, HTML, JavaScript, PowerShell
+fairly fluent in C/C++/C#; also Java, HTML, JavaScript, PowerShell
 
 <!--
 **sdouthat/sdouthat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
